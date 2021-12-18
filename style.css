@@ -1,0 +1,31 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+.heading{
+    font-size: 25px;
+}
+
+h3{
+    color: indigo;
+}
+
+span{
+    color: firebrick;
+}
+
+h4{
+    font-size: 25px;
+}
+
+#footer{
+    color: yellow;
+    background-color:darkblue;
+}
+
